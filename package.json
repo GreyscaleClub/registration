@@ -1,0 +1,25 @@
+{
+  "name": "registration",
+  "version": "1.0.0",
+  "description": "A simple rigistration site for CTF",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreyscaleClub/registration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreyscaleClub/registration/issues"
+  },
+  "homepage": "https://github.com/GreyscaleClub/registration#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
