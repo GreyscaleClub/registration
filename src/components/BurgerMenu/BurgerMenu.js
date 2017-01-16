@@ -42,9 +42,9 @@ class BurgerMenu extends React.Component {
     console.log(styles);
     return (
       <Menu styles={ styles }>
-        <a id="Home" className="menu-item" href="/">Home</a>
-        <a id="Information" className="menu-item" href="/">Information</a>
-        <a id="Register" className="menu-item" href="/">Register</a>
+      <a id="Home" className="menu-item" href="/">Home</a>
+      <a id="Information" className="menu-item" href="/">Information</a>
+      <a id="Register" className="menu-item" href="/">Register</a>
       </Menu>
     );
   }
