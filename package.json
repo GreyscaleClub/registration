@@ -1,0 +1,35 @@
+{
+  "name": "registration",
+  "version": "0.0.0",
+  "description": "Front-end interface for GreyscaleClub registration site",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot",
+    "build": "webpack --progress --colors"
+  },
+  "author": "Carl Masri, Kjalen Hansen",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GreyscaleClub/registration"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.8",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "css-loader": "^0.25.0",
+    "file-loader": "^0.9.0",
+    "react": "^15.3.2",
+    "react-bootstrap": "^0.30.6",
+    "react-css-modules": "^4.0.3",
+    "react-dom": "^15.3.2",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
