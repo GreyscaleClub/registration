@@ -14,7 +14,8 @@
     "url": "https://github.com/GreyscaleClub/registration"
   },
   "dependencies": {
-    "bootstrap": "^3.3.7"
+    "bootstrap": "^3.3.7",
+    "react-burger-menu": "^1.10.10"
   },
   "devDependencies": {
     "babel-core": "^6.18.2",
