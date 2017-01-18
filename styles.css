@@ -33,6 +33,7 @@ main {
   overflow: scroll;
 }
 h1 {
+  color: #4e4a46;
   font-weight: 800;
   font-size: 3.75em;
 }
