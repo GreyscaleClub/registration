@@ -15,7 +15,12 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "react-burger-menu": "^1.10.10"
+    "material-ui": "^0.16.7",
+    "react-burger-menu": "^1.10.10",
+    "react-tap-event-plugin": "^2.0.1",
+    "simple-react-form": "^1.8.0",
+    "simple-react-form-material-ui": "^1.7.5",
+    "simple-react-forms": "^1.2.0"
   },
   "devDependencies": {
     "babel-core": "^6.18.2",
