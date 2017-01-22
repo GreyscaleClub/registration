@@ -8,6 +8,7 @@ Registration site for CTF event.
 ```bash
 git clone https://github.com/greyscaleclub/registration/
 cd registration
+npm install
 ```
 
 ## Development
@@ -15,7 +16,6 @@ cd registration
 Uses webpack-dev-server with hot module replacement.
 
 ```bash
-npm install
 npm start
 ```
 
